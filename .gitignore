@@ -1,0 +1,19 @@
+.DS_Store
+.idea/
+*.iml
+out/
+build/
+bin/
+.gradle/
+*.class
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+cifar10/
+*.npy
+*.midi
+report_*.txt
+
+# abgabe midi-extra
+!programmieren1/midi-extra/*.midi
+!**/src/test/resources/*.midi
