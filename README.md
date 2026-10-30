@@ -7,4 +7,5 @@ projekte und belegarbeiten aus dem bachelorstudium informatik in kultur und gesu
 - `projektstudium-computermuseum` rest-api für die website des htw-computermuseums
 - `betriebssysteme` threads, log-analyse mit bash
 - `bildverarbeitung` belegarbeiten 1-3 (farbräume, filter, hough-transformation, klassifikation auf cifar-10)
+- `softwareengineering` factory pattern, rest-api mit spring boot
 - `ikg` validierung von genen, prüfung 2025 (option 2: k-mer-häufigkeiten in dna-reads)
