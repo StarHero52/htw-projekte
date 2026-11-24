@@ -9,4 +9,5 @@ projekte und belegarbeiten aus dem bachelorstudium informatik in kultur und gesu
 - `betriebssysteme` threads, log-analyse mit bash
 - `bildverarbeitung` belegarbeiten 1-3 (farbräume, filter, hough-transformation, klassifikation auf cifar-10)
 - `softwareengineering` factory pattern, rest-api mit spring boot
+- `deeplearning` project 1.2: lebenserwartung vorhersagen (gapminder)
 - `ikg` validierung von genen, prüfung 2025 (option 2: k-mer-häufigkeiten in dna-reads)
