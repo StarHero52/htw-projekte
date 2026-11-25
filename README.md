@@ -11,3 +11,10 @@ projekte und belegarbeiten aus dem bachelorstudium informatik in kultur und gesu
 - `softwareengineering` factory pattern, rest-api mit spring boot
 - `deeplearning` project 1.2: lebenserwartung vorhersagen (gapminder)
 - `ikg` validierung von genen, prüfung 2025 (option 2: k-mer-häufigkeiten in dna-reads)
+
+## setup
+
+- java: gradle-projekte in `programmieren1` und `programmieren2`, `programmieren3` als intellij-projekt, `softwareengineering` mit maven, restlicher java-code ohne build-tool
+- php: laravel, abhängigkeiten über composer
+- notebooks: python ≥ 3.12, z. b. in jupyterlab, vscodium oder google colab. `deeplearning` braucht zusätzlich pytorch, pandas und plotly. abhängigkeiten für `bildverarbeitung` in `bildverarbeitung/pyproject.toml`
+- nicht im repo: `programmieren3/beleg/artifacts` (junit 5, mockito 5 als jars), `.idea` und die native opencv-bibliothek für `programmieren2/dicom-viewer`. müssen lokal ergänzt werden

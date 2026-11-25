@@ -17,3 +17,8 @@ report_*.txt
 # abgabe midi-extra
 !programmieren1/midi-extra/*.midi
 !**/src/test/resources/*.midi
+
+# nicht ins repo
+*.so
+*.mp4
+programmieren3/beleg/artifacts/
